@@ -1,0 +1,134 @@
+2024-10-13T19:09:05.602+05:30  INFO 14090 --- [mlog] [main] com.mlog.logger.MlogApplication          : Starting MlogApplication using Java 21.0.1 with PID 14090 (/home/manish/Downloads/mlog/target/classes started by manish in /home/manish/Downloads/mlog)
+2024-10-13T19:09:05.609+05:30  INFO 14090 --- [mlog] [main] com.mlog.logger.MlogApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-10-13T19:09:07.756+05:30  INFO 14090 --- [mlog] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8888 (http)
+2024-10-13T19:09:07.783+05:30  INFO 14090 --- [mlog] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-10-13T19:09:07.784+05:30  INFO 14090 --- [mlog] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.30]
+2024-10-13T19:09:07.883+05:30  INFO 14090 --- [mlog] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-10-13T19:09:07.884+05:30  INFO 14090 --- [mlog] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2171 ms
+2024-10-13T19:09:08.527+05:30  INFO 14090 --- [mlog] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8888 (http) with context path '/'
+2024-10-13T19:09:08.547+05:30  INFO 14090 --- [mlog] [main] com.mlog.logger.MlogApplication          : Started MlogApplication in 3.999 seconds (process running for 4.665)
+com.mlog.logger.model.LogEntry@334ebcaacom.mlog.logger.model.LogEntry@6468a7b6com.mlog.logger.model.LogEntry@2f8608232024-10-13T19:09:28.781+05:30  INFO 14310 --- [mlog] [main] com.mlog.logger.MlogApplication          : Starting MlogApplication using Java 21.0.1 with PID 14310 (/home/manish/Downloads/mlog/target/classes started by manish in /home/manish/Downloads/mlog)
+2024-10-13T19:09:28.790+05:30  INFO 14310 --- [mlog] [main] com.mlog.logger.MlogApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-10-13T19:09:31.183+05:30  INFO 14310 --- [mlog] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8888 (http)
+2024-10-13T19:09:31.212+05:30  INFO 14310 --- [mlog] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-10-13T19:09:31.213+05:30  INFO 14310 --- [mlog] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.30]
+2024-10-13T19:09:31.335+05:30  INFO 14310 --- [mlog] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-10-13T19:09:31.336+05:30  INFO 14310 --- [mlog] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2376 ms
+2024-10-13T19:09:32.129+05:30  INFO 14310 --- [mlog] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8888 (http) with context path '/'
+2024-10-13T19:09:32.150+05:30  INFO 14310 --- [mlog] [main] com.mlog.logger.MlogApplication          : Started MlogApplication in 4.5 seconds (process running for 5.149)
+com.mlog.logger.model.LogEntry@696b4a95com.mlog.logger.model.LogEntry@4d68b571com.mlog.logger.model.LogEntry@52b06bef2024-10-13T19:09:51.344+05:30  INFO 14493 --- [mlog] [main] com.mlog.logger.MlogApplication          : Starting MlogApplication using Java 21.0.1 with PID 14493 (/home/manish/Downloads/mlog/target/classes started by manish in /home/manish/Downloads/mlog)
+2024-10-13T19:09:51.351+05:30  INFO 14493 --- [mlog] [main] com.mlog.logger.MlogApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-10-13T19:09:53.337+05:30  INFO 14493 --- [mlog] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8888 (http)
+2024-10-13T19:09:53.365+05:30  INFO 14493 --- [mlog] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-10-13T19:09:53.365+05:30  INFO 14493 --- [mlog] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.30]
+2024-10-13T19:09:53.473+05:30  INFO 14493 --- [mlog] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-10-13T19:09:53.473+05:30  INFO 14493 --- [mlog] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2023 ms
+2024-10-13T19:09:54.282+05:30  INFO 14493 --- [mlog] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8888 (http) with context path '/'
+2024-10-13T19:09:54.309+05:30  INFO 14493 --- [mlog] [main] com.mlog.logger.MlogApplication          : Started MlogApplication in 4.268 seconds (process running for 4.837)
+com.mlog.logger.model.LogEntry@e76b097com.mlog.logger.model.LogEntry@338b49d3com.mlog.logger.model.LogEntry@2aa7399c2024-10-13T19:10:45.151+05:30  INFO 14850 --- [mlog] [main] com.mlog.logger.MlogApplication          : Starting MlogApplication using Java 21.0.1 with PID 14850 (/home/manish/Downloads/mlog/target/classes started by manish in /home/manish/Downloads/mlog)
+2024-10-13T19:10:45.162+05:30  INFO 14850 --- [mlog] [main] com.mlog.logger.MlogApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-10-13T19:10:47.289+05:30  INFO 14850 --- [mlog] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 0 (http)
+2024-10-13T19:10:47.318+05:30  INFO 14850 --- [mlog] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-10-13T19:10:47.318+05:30  INFO 14850 --- [mlog] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.30]
+2024-10-13T19:10:47.418+05:30  INFO 14850 --- [mlog] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-10-13T19:10:47.419+05:30  INFO 14850 --- [mlog] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2066 ms
+2024-10-13T19:10:47.538+05:30  INFO 14850 --- [mlog] [main] f.a.AutowiredAnnotationBeanPostProcessor : Autowired annotation is not supported on static fields: private static int com.mlog.logger.MlogApplication.port
+2024-10-13T19:10:48.348+05:30  INFO 14850 --- [mlog] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 39595 (http) with context path '/'
+2024-10-13T19:10:48.373+05:30  INFO 14850 --- [mlog] [main] com.mlog.logger.MlogApplication          : Started MlogApplication in 4.46 seconds (process running for 5.041)
+com.mlog.logger.model.LogEntry@32e652b6com.mlog.logger.model.LogEntry@7593ea79com.mlog.logger.model.LogEntry@3289079a2024-10-13T19:11:10.285+05:30  INFO 15066 --- [mlog] [main] com.mlog.logger.MlogApplication          : Starting MlogApplication using Java 21.0.1 with PID 15066 (/home/manish/Downloads/mlog/target/classes started by manish in /home/manish/Downloads/mlog)
+2024-10-13T19:11:10.291+05:30  INFO 15066 --- [mlog] [main] com.mlog.logger.MlogApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-10-13T19:11:12.563+05:30  INFO 15066 --- [mlog] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 0 (http)
+2024-10-13T19:11:12.594+05:30  INFO 15066 --- [mlog] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-10-13T19:11:12.595+05:30  INFO 15066 --- [mlog] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.30]
+2024-10-13T19:11:12.700+05:30  INFO 15066 --- [mlog] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-10-13T19:11:12.701+05:30  INFO 15066 --- [mlog] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2178 ms
+2024-10-13T19:11:12.822+05:30  INFO 15066 --- [mlog] [main] f.a.AutowiredAnnotationBeanPostProcessor : Autowired annotation is not supported on static fields: private static int com.mlog.logger.MlogApplication.port
+2024-10-13T19:11:13.589+05:30  INFO 15066 --- [mlog] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 37361 (http) with context path '/'
+2024-10-13T19:11:13.622+05:30  INFO 15066 --- [mlog] [main] com.mlog.logger.MlogApplication          : Started MlogApplication in 4.591 seconds (process running for 5.174)
+com.mlog.logger.model.LogEntry@7593ea79com.mlog.logger.model.LogEntry@32fa809fcom.mlog.logger.model.LogEntry@788ba63e2024-10-13T19:14:11.681+05:30  INFO 16051 --- [mlog] [main] com.mlog.logger.MlogApplication          : Starting MlogApplication using Java 21.0.1 with PID 16051 (/home/manish/Downloads/mlog/target/classes started by manish in /home/manish/Downloads/mlog)
+2024-10-13T19:14:11.686+05:30  INFO 16051 --- [mlog] [main] com.mlog.logger.MlogApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-10-13T19:14:13.617+05:30  INFO 16051 --- [mlog] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 0 (http)
+2024-10-13T19:14:13.645+05:30  INFO 16051 --- [mlog] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-10-13T19:14:13.645+05:30  INFO 16051 --- [mlog] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.30]
+2024-10-13T19:14:13.736+05:30  INFO 16051 --- [mlog] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-10-13T19:14:13.737+05:30  INFO 16051 --- [mlog] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1942 ms
+2024-10-13T19:14:13.844+05:30  INFO 16051 --- [mlog] [main] f.a.AutowiredAnnotationBeanPostProcessor : Autowired annotation is not supported on static fields: private static int com.mlog.logger.MlogApplication.port
+2024-10-13T19:14:14.464+05:30  INFO 16051 --- [mlog] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 46653 (http) with context path '/'
+2024-10-13T19:14:14.487+05:30  INFO 16051 --- [mlog] [main] com.mlog.logger.MlogApplication          : Started MlogApplication in 3.714 seconds (process running for 4.456)
+com.mlog.logger.model.LogEntry@e76b097com.mlog.logger.model.LogEntry@338b49d3com.mlog.logger.model.LogEntry@2aa7399c2024-10-13T19:19:23.597+05:30  INFO 17619 --- [mlog] [main] com.mlog.logger.MlogApplication          : Starting MlogApplication using Java 21.0.1 with PID 17619 (/home/manish/Downloads/mlog/target/classes started by manish in /home/manish/Downloads/mlog)
+2024-10-13T19:19:23.603+05:30  INFO 17619 --- [mlog] [main] com.mlog.logger.MlogApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-10-13T19:19:25.737+05:30  INFO 17619 --- [mlog] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-10-13T19:19:25.771+05:30  INFO 17619 --- [mlog] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-10-13T19:19:25.772+05:30  INFO 17619 --- [mlog] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.30]
+2024-10-13T19:19:25.876+05:30  INFO 17619 --- [mlog] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-10-13T19:19:25.877+05:30  INFO 17619 --- [mlog] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2159 ms
+2024-10-13T19:19:26.715+05:30  INFO 17619 --- [mlog] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-10-13T19:19:26.745+05:30  INFO 17619 --- [mlog] [main] com.mlog.logger.MlogApplication          : Started MlogApplication in 4.155 seconds (process running for 4.752)
+com.mlog.logger.model.LogEntry@4667c4c1com.mlog.logger.model.LogEntry@22c75c01com.mlog.logger.model.LogEntry@46e647602024-10-13T19:19:48.336+05:30  INFO 17834 --- [mlog] [main] com.mlog.logger.MlogApplication          : Starting MlogApplication using Java 21.0.1 with PID 17834 (/home/manish/Downloads/mlog/target/classes started by manish in /home/manish/Downloads/mlog)
+2024-10-13T19:19:48.352+05:30  INFO 17834 --- [mlog] [main] com.mlog.logger.MlogApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-10-13T19:19:50.901+05:30  INFO 17834 --- [mlog] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-10-13T19:19:50.945+05:30  INFO 17834 --- [mlog] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-10-13T19:19:50.947+05:30  INFO 17834 --- [mlog] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.30]
+2024-10-13T19:19:51.058+05:30  INFO 17834 --- [mlog] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-10-13T19:19:51.059+05:30  INFO 17834 --- [mlog] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2513 ms
+2024-10-13T19:19:52.024+05:30  INFO 17834 --- [mlog] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-10-13T19:19:52.050+05:30  INFO 17834 --- [mlog] [main] com.mlog.logger.MlogApplication          : Started MlogApplication in 4.696 seconds (process running for 5.237)
+com.mlog.logger.model.LogEntry@43982337com.mlog.logger.model.LogEntry@2f0ed952com.mlog.logger.model.LogEntry@6f044c582024-10-13T19:21:03.522+05:30  INFO 18288 --- [mlog] [main] com.mlog.logger.MlogApplication          : Starting MlogApplication using Java 21.0.1 with PID 18288 (/home/manish/Downloads/mlog/target/classes started by manish in /home/manish/Downloads/mlog)
+2024-10-13T19:21:03.527+05:30  INFO 18288 --- [mlog] [main] com.mlog.logger.MlogApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-10-13T19:21:05.469+05:30  INFO 18288 --- [mlog] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 0 (http)
+2024-10-13T19:21:05.509+05:30  INFO 18288 --- [mlog] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-10-13T19:21:05.510+05:30  INFO 18288 --- [mlog] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.30]
+2024-10-13T19:21:05.639+05:30  INFO 18288 --- [mlog] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-10-13T19:21:05.640+05:30  INFO 18288 --- [mlog] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2010 ms
+2024-10-13T19:21:05.753+05:30  INFO 18288 --- [mlog] [main] f.a.AutowiredAnnotationBeanPostProcessor : Autowired annotation is not supported on static fields: private static int com.mlog.logger.MlogApplication.logPort
+2024-10-13T19:21:06.489+05:30  INFO 18288 --- [mlog] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 34141 (http) with context path '/'
+2024-10-13T19:21:06.533+05:30  INFO 18288 --- [mlog] [main] com.mlog.logger.MlogApplication          : Started MlogApplication in 4.035 seconds (process running for 4.547)
+com.mlog.logger.model.LogEntry@6d074b14com.mlog.logger.model.LogEntry@559cedeecom.mlog.logger.model.LogEntry@18371d892024-10-13T19:22:54.256+05:30  INFO 18891 --- [mlog] [main] com.mlog.logger.MlogApplication          : Starting MlogApplication using Java 21.0.1 with PID 18891 (/home/manish/Downloads/mlog/target/classes started by manish in /home/manish/Downloads/mlog)
+2024-10-13T19:22:54.261+05:30  INFO 18891 --- [mlog] [main] com.mlog.logger.MlogApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-10-13T19:22:56.366+05:30  INFO 18891 --- [mlog] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 9999 (http)
+2024-10-13T19:22:56.398+05:30  INFO 18891 --- [mlog] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-10-13T19:22:56.399+05:30  INFO 18891 --- [mlog] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.30]
+2024-10-13T19:22:56.518+05:30  INFO 18891 --- [mlog] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-10-13T19:22:56.519+05:30  INFO 18891 --- [mlog] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2130 ms
+2024-10-13T19:22:56.634+05:30  INFO 18891 --- [mlog] [main] f.a.AutowiredAnnotationBeanPostProcessor : Autowired annotation is not supported on static fields: private static int com.mlog.logger.MlogApplication.logPort
+2024-10-13T19:22:57.250+05:30  INFO 18891 --- [mlog] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 9999 (http) with context path '/'
+2024-10-13T19:22:57.271+05:30  INFO 18891 --- [mlog] [main] com.mlog.logger.MlogApplication          : Started MlogApplication in 3.96 seconds (process running for 4.472)
+com.mlog.logger.model.LogEntry@17092fffcom.mlog.logger.model.LogEntry@31e2232fcom.mlog.logger.model.LogEntry@1806bc4c2024-10-13T19:25:57.691+05:30  INFO 19846 --- [mlog] [main] com.mlog.logger.MlogApplication          : Starting MlogApplication using Java 21.0.1 with PID 19846 (/home/manish/Downloads/mlog/target/classes started by manish in /home/manish/Downloads/mlog)
+2024-10-13T19:25:57.699+05:30  INFO 19846 --- [mlog] [main] com.mlog.logger.MlogApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-10-13T19:25:59.672+05:30  INFO 19846 --- [mlog] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-10-13T19:25:59.703+05:30  INFO 19846 --- [mlog] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-10-13T19:25:59.703+05:30  INFO 19846 --- [mlog] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.30]
+2024-10-13T19:25:59.815+05:30  INFO 19846 --- [mlog] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-10-13T19:25:59.816+05:30  INFO 19846 --- [mlog] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1973 ms
+com.mlog.logger.model.LogEntry@7e2c642024-10-13T19:26:00.683+05:30  INFO 19846 --- [mlog] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-10-13T19:26:00.733+05:30  INFO 19846 --- [mlog] [main] com.mlog.logger.MlogApplication          : Started MlogApplication in 4.071 seconds (process running for 4.687)
+com.mlog.logger.model.LogEntry@5a8816cccom.mlog.logger.model.LogEntry@68565bc7com.mlog.logger.model.LogEntry@37baddde2024-10-13T19:27:34.200+05:30  INFO 20390 --- [mlog] [main] com.mlog.logger.MlogApplication          : Starting MlogApplication using Java 21.0.1 with PID 20390 (/home/manish/Downloads/mlog/target/classes started by manish in /home/manish/Downloads/mlog)
+2024-10-13T19:27:34.205+05:30  INFO 20390 --- [mlog] [main] com.mlog.logger.MlogApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-10-13T19:27:36.391+05:30  INFO 20390 --- [mlog] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 9898 (http)
+2024-10-13T19:27:36.422+05:30  INFO 20390 --- [mlog] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-10-13T19:27:36.423+05:30  INFO 20390 --- [mlog] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.30]
+2024-10-13T19:27:36.520+05:30  INFO 20390 --- [mlog] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-10-13T19:27:36.521+05:30  INFO 20390 --- [mlog] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2170 ms
+2024-10-13T19:27:37.436+05:30  INFO 20390 --- [mlog] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 9898 (http) with context path '/'
+2024-10-13T19:27:37.456+05:30  INFO 20390 --- [mlog] [main] com.mlog.logger.MlogApplication          : Started MlogApplication in 4.249 seconds (process running for 4.799)
+com.mlog.logger.model.LogEntry@65eb76cdcom.mlog.logger.model.LogEntry@334ebcaacom.mlog.logger.model.LogEntry@5a0bef242024-10-13T19:28:02.567+05:30  INFO 20624 --- [mlog] [main] com.mlog.logger.MlogApplication          : Starting MlogApplication using Java 21.0.1 with PID 20624 (/home/manish/Downloads/mlog/target/classes started by manish in /home/manish/Downloads/mlog)
+2024-10-13T19:28:02.571+05:30  INFO 20624 --- [mlog] [main] com.mlog.logger.MlogApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-10-13T19:28:04.766+05:30  INFO 20624 --- [mlog] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 6666 (http)
+2024-10-13T19:28:04.805+05:30  INFO 20624 --- [mlog] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-10-13T19:28:04.806+05:30  INFO 20624 --- [mlog] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.30]
+2024-10-13T19:28:04.907+05:30  INFO 20624 --- [mlog] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-10-13T19:28:04.908+05:30  INFO 20624 --- [mlog] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2209 ms
+2024-10-13T19:28:05.744+05:30  INFO 20624 --- [mlog] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 6666 (http) with context path '/'
+2024-10-13T19:28:05.769+05:30  INFO 20624 --- [mlog] [main] com.mlog.logger.MlogApplication          : Started MlogApplication in 4.196 seconds (process running for 4.9)
+com.mlog.logger.model.LogEntry@5a0bef24com.mlog.logger.model.LogEntry@2f860823com.mlog.logger.model.LogEntry@696b4a952024-10-13T19:28:45.967+05:30  INFO 20962 --- [mlog] [main] com.mlog.logger.MlogApplication          : Starting MlogApplication using Java 21.0.1 with PID 20962 (/home/manish/Downloads/mlog/target/classes started by manish in /home/manish/Downloads/mlog)
+2024-10-13T19:28:45.972+05:30  INFO 20962 --- [mlog] [main] com.mlog.logger.MlogApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-10-13T19:28:47.879+05:30  INFO 20962 --- [mlog] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 9696 (http)
+2024-10-13T19:28:47.905+05:30  INFO 20962 --- [mlog] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-10-13T19:28:47.906+05:30  INFO 20962 --- [mlog] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.30]
+2024-10-13T19:28:48.064+05:30  INFO 20962 --- [mlog] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-10-13T19:28:48.066+05:30  INFO 20962 --- [mlog] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1965 ms
+2024-10-13T19:28:48.860+05:30  INFO 20962 --- [mlog] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 9696 (http) with context path '/'
+2024-10-13T19:28:48.883+05:30  INFO 20962 --- [mlog] [main] com.mlog.logger.MlogApplication          : Started MlogApplication in 3.984 seconds (process running for 4.493)
+com.mlog.logger.model.LogEntry@2be95d31com.mlog.logger.model.LogEntry@2aa7399ccom.mlog.logger.model.LogEntry@11eed6572024-10-13T19:29:12.234+05:30  INFO 20962 --- [mlog] [http-nio-9696-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-13T19:29:12.235+05:30  INFO 20962 --- [mlog] [http-nio-9696-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-10-13T19:29:12.237+05:30  INFO 20962 --- [mlog] [http-nio-9696-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms

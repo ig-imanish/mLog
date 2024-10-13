@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Logs</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #d8d5d5;
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th,
+        td {
+            padding: 10px;
+            border: 1px solid #ccc;
+            text-align: left;
+        }
+
+        th {
+            background-color: #007bff;
+            color: white;
+        }
+
+        .INFO {
+            background-color: #e0ec2c;
+            /* Light blue */
+            color: #0d0d0e;
+        }
+
+        .ERROR {
+            background-color: #dd1212;
+            /* Light red */
+            color: #0d0d0e;
+        }
+
+        .DEBUG {
+            background-color: #1df70a;
+            /* Light cyan */
+            color: #0d0d0e;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Log Entries</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Description</th>
+                <th>Log Level</th>
+                <th>Timestamp</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr th:each="log : ${logs}" th:class="${log.level}">
+                <td th:text="${log.title}"></td>
+                <td th:text="${log.description}"></td>
+                <td th:text="${log.level}"></td>
+                <td th:text="${log.timestamp}"></td>
+            </tr>
+
+            <!-- Sample log entries for testing -->
+            <tr class="INFO">
+                <td>Sample Info Log</td>
+                <td>This is a sample info log entry for testing.</td>
+                <td>INFO</td>
+                <td>2024-10-13T17:00:00</td>
+            </tr>
+            <tr class="ERROR">
+                <td>Sample Error Log</td>
+                <td>This is a sample error log entry for testing.</td>
+                <td>ERROR</td>
+                <td>2024-10-13T17:01:00</td>
+            </tr>
+            <tr class="DEBUG">
+                <td>Sample Debug Log</td>
+                <td>This is a sample debug log entry for testing.</td>
+                <td>DEBUG</td>
+                <td>2024-10-13T17:02:00</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+
+</html>

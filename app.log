@@ -1,0 +1,13 @@
+Title: Initialization
+Description: Application has started successfully.
+LogLevel: INFO
+Timestamp: 2024-10-13T17:08:50.810934372
+Title: Database Error
+Description: Failed to connect to the database.
+LogLevel: ERROR
+Timestamp: 2024-10-13T17:08:50.811848505
+Title: Debug Info
+Description: Debugging application startup.
+LogLevel: DEBUG
+Timestamp: 2024-10-13T17:08:50.812114398
+com.mlog.logger.model.LogEntry@33634f04com.mlog.logger.model.LogEntry@7601bc96com.mlog.logger.model.LogEntry@48a0c8aacom.mlog.logger.model.LogEntry@2dd0f797com.mlog.logger.model.LogEntry@4a7fd0c9com.mlog.logger.model.LogEntry@18578491com.mlog.logger.model.LogEntry@2dd0f797com.mlog.logger.model.LogEntry@4a7fd0c9com.mlog.logger.model.LogEntry@18578491com.mlog.logger.model.LogEntry@5d497a91com.mlog.logger.model.LogEntry@1c8f6a90com.mlog.logger.model.LogEntry@3050ac2fcom.mlog.logger.model.LogEntry@5793b87com.mlog.logger.model.LogEntry@512575e9com.mlog.logger.model.LogEntry@6f1a16fecom.mlog.logger.model.LogEntry@15405bd6com.mlog.logger.model.LogEntry@70730dbcom.mlog.logger.model.LogEntry@5793b87

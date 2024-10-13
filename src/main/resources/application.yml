@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: mlog
+logging:
+  file:
+    name: mylog.log
+  projectName: MyProject
+log:
+  port: 9696  # Specify the desired port here
