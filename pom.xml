@@ -11,7 +11,7 @@
 	<groupId>com.mlog</groupId>
 	<artifactId>logger</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>mlog</name>
+	<name>logger</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
@@ -54,5 +54,12 @@
 			</plugin>
 		</plugins>
 	</build>
+
+<distributionManagement>
+    <repository>
+        <id>github</id>
+        <url>https://maven.pkg.github.com/ig-imanish/mLog</url>
+    </repository>
+</distributionManagement>
 
 </project>
